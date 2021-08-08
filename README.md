@@ -2,7 +2,8 @@
 
 <p>A simple 2 page website using HTML and CSS only</p>
 
-<p>Access the code files on my <a href="https://github.com/davidcliffe/personal-website.git"> GitHub page</a> </p>
+<p>You can visit my website  <a href="https://davidcliffe.github.io/personal-website/index.html"> here</a> </p>
+
 
 <h2>Summary</h2> 
 <p>I have always been interested in solving problems and programming. Recently I decided I wanted to expand my skills so I could get creative with software tools
